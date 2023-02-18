@@ -5,7 +5,7 @@
 <div align="center">  
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center"</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
