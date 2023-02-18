@@ -9,7 +9,7 @@
 
 <h3 align="left">Redes Sociais</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/matheus melo](https://www.linkedin.com/in/matheus-melo-11b916220/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matheus melo" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/matheus melo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matheus melo" height="30" width="40" /></a>
 <a href="https://instagram.com/meloxas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="meloxas" height="30" width="40" /></a>
 <a href="https://discord.gg/melo#1842" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="melo#1842" height="30" width="40" /></a>
 </p>
