@@ -1,15 +1,14 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+<h1 align="center">Olá 👋, Sou o Matheus</h1>
+<h3 align="center">Atualmente estou cursando Análise e Desenvolvimento de Sistemas, e estou disponivel para o mercado de trabalho! Entre em contato clicando nos botões Linkedin ou Email</h3>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Matheus+Melo+;Seja+bem-vindo!+:%29)](https://git.io/typing-svg)
+<h3 align="center">Contatos</h3>
+ <div align="center"> 
+  
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=matheusm7&show_icons=true&locale=en&layout=compact" alt="matheusm7" /></p>
 
-<div align="center">  
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
-<h3 align="center"</h3>
-
-<h3 align="left">Redes Sociais</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/matheus-melo-11b916220/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matheus melo" height="30" width="30" /></a>
-<a href="https://instagram.com/meloxas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="meloxas" height="30" width="30" /></a>
-<a href="https://discord.gg/melo#1842" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="melo#1842" height="30" width="30" /></a>
-</p>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=matheusm7&show_icons=true&locale=en" alt="matheusm7" /></p>
+  
+<a href="mailto:matheusidmelo@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
+<a href="https://www.linkedin.com/in/matheus-melo-11b916220/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  </div>  </div>  </div>
+   <br>
