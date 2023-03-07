@@ -4,9 +4,9 @@
 
  <div align="center"> 
   
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=matheusm7&show_icons=true&locale=en&layout=compact" alt="matheusm7" /></p>
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=matheusm7&show_icons=true&theme=dark&locale=en&layout=compact" alt="matheusm7" /></p>
 
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=matheusm7&show_icons=true&locale=en" alt="matheusm7" /></p>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=matheusm7&theme=dark&show_icons=true&locale=en" alt="matheusm7" /></p>
   
  <h3 align="center">Contatos</h3>
 <a href="mailto:matheusidmelo@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
