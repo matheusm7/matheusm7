@@ -1,5 +1,6 @@
-<h1 align="center">Olá 👋, Sou o Matheus Melo</h1>
-<h3 align="center">Amante de tecnologia que busca oportunidades para aplicar meus conhecimentos em desenvolvimento de software. Possuo habilidades em metodologias ágeis como Scrum, bem como experiência em versionamento com Git. Tenho também conhecimentos em front-end com HTML, CSS e JavaScript, e meu foco atual é em desenvolvimento mobile com Dart e Flutter. Atualmente estou cursando Análise e Desenvolvimento de Sistemas, e estou sempre em busca de aprender novas tecnologias e aprimorar minhas habilidades. Se você está procurando por um desenvolvedor empenhado e proativo, sinta-se à vontade para entrar em contato comigo clicando nos botões Linkedin ou Email. Obrigado pela visita!</h3>
+<h1 align="center">Olá 👋</h1>
+<h3 align="center">
+Olá, sou Matheus de Melo, estudante de Análise e Desenvolvimento de Sistemas. No meu GitHub, destaco projetos em HTML, CSS, JavaScript, React, Dart, Flutter e Firebase. Com foco em desenvolvimento móvel, buscando constantemente aprender e crescer, entre em contato clicando nos botões Linkedin ou E-mail.</h3>
 
 
  <div align="center"> 
