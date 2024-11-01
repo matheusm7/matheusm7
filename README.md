@@ -1,6 +1,6 @@
 <h1 align="center">Olá 👋</h1>
 <h3 align="center">
-Olá, sou Matheus de Melo, estudante de Análise e Desenvolvimento de Sistemas. No meu GitHub, destaco projetos em HTML, CSS, JavaScript, React, Dart, Flutter e Firebase. Com foco em desenvolvimento móvel, buscando constantemente aprender e crescer, entre em contato clicando nos botões Linkedin ou E-mail.</h3>
+Olá, sou Matheus de Melo, estudante de Análise e Desenvolvimento de Sistemas. No meu GitHub, destaco projetos em JavaScript, React, Dart, Flutter e Firebase. Com foco em desenvolvimento móvel, buscando constantemente aprender e crescer, entre em contato clicando nos botões Linkedin ou E-mail.</h3>
 
 
  <div align="center"> 
