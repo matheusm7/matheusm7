@@ -29,14 +29,3 @@ Neste perfil, reúno projetos e soluções desenvolvidas durante minha trajetór
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=matheusm7&show_icons=true&theme=dark&hide_border=true" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusm7&layout=compact&theme=dark&hide_border=true" />
 </div>
-
-### Contato
-
-<p>
-  <a href="https://www.linkedin.com/in/matheus-melo-11b916220/">
-    <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=flat-square&logo=linkedin" />
-  </a>
-  <a href="mailto:matheusidmelo@gmail.com">
-    <img src="https://img.shields.io/badge/E--mail-Contato-EA4335?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-</p>
