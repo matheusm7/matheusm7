@@ -19,13 +19,14 @@ Neste perfil, reúno projetos e soluções desenvolvidas durante minha trajetór
 
 ### Tecnologias
 
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=react,js,html,css,flutter,dart,firebase,aws,git" />
 </p>
 
-### GitHub
+### GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=matheusm7&show_icons=true&theme=dark&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=matheusm7&show_icons=true&theme=dark&hide_border=true&include_all_commits=true" />
+
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusm7&layout=compact&theme=dark&hide_border=true" />
 </div>
